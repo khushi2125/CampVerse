@@ -145,7 +145,7 @@ const Navbar = () => {
         {/* Logo */}
         <NavLink to="/" className="flex items-center gap-2">
           <span className="text-xl font-extrabold bg-gradient-to-r from-sky-500 via-indigo-500 to-orange-400 bg-clip-text text-transparent">
-            Campverse
+            CampVerse
           </span>
         </NavLink>
 
@@ -281,7 +281,7 @@ const Navbar = () => {
               onClick={handleLogout}
               className="px-4 py-2 rounded-full bg-red-500 text-white text-sm font-semibold shadow-sm hover:bg-red-600 hover:scale-105 transition-all duration-300"
             >
-              Logout
+             Logout
             </button>
           ) : (
             <Link

@@ -35,6 +35,14 @@ const Footer = () => {
           <div className="space-y-3">
             <h4 className="text-sm font-semibold text-white">Quick Links</h4>
             <div className="flex flex-col gap-2">
+               <NavLink
+                to="/college-management"
+                className={({ isActive }) =>
+                  `${linkClass} ${isActive ? activeClass : ""}`
+                }
+              >
+                College Management
+              </NavLink>la
               <NavLink
                 to="/lost-found"
                 className={({ isActive }) =>
@@ -67,14 +75,7 @@ const Footer = () => {
               >
                 Feedback
               </NavLink>
-              <NavLink
-                to="/college-management"
-                className={({ isActive }) =>
-                  `${linkClass} ${isActive ? activeClass : ""}`
-                }
-              >
-                College Management
-              </NavLink>
+             
             </div>
           </div>
 

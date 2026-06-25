@@ -12,9 +12,9 @@ const Dashboard = () => {
               Quick overview of attendance, classes and upcoming events.
             </p>
           </div>
-          <button className="px-3 py-2 rounded-lg bg-blue-600 text-white text-xs font-medium hover:bg-blue-700">
+          {/* <button className="px-3 py-2 rounded-lg bg-blue-600 text-white text-xs font-medium hover:bg-blue-700">
             Download Report
-          </button>
+          </button> */}
         </header>
 
         <section className="grid md:grid-cols-4 gap-4">

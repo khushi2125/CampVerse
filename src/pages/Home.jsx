@@ -23,7 +23,7 @@ const Home = () => {
             <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-slate-900 dark:text-slate-50 space-y-1">
               <span className="block">Welcome to</span>
               <span className="block bg-gradient-to-r from-sky-400 via-indigo-500 to-orange-400 bg-clip-text text-transparent">
-                Campverse
+                CampVerse
               </span>
             </h1>
 
@@ -237,7 +237,7 @@ const Home = () => {
               <article className="bg-white/90 dark:bg-slate-900/80 rounded-2xl shadow-sm border border-slate-100 dark:border-slate-700 overflow-hidden flex flex-col hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
                 <div className="relative h-32">
                   <img
-                    src="https://media.istockphoto.com/id/2179684475/photo/engaged-audience-raising-hands-during-business-conference-lecture.webp?w=600&auto=format&fit=crop&q=60"
+                    src="https://plus.unsplash.com/premium_photo-1667354154657-5adc088ed55a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZmVlZGJhY2t8ZW58MHx8MHx8fDA%3D"
                     alt="Student feedback system"
                     className="w-full h-full object-cover"
                   />
@@ -272,8 +272,7 @@ const Home = () => {
               <article className="bg-white/90 dark:bg-slate-900/80 rounded-2xl shadow-sm border border-slate-100 dark:border-slate-700 overflow-hidden flex flex-col hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
                 <div className="relative h-32">
                   <img
-                    src="https://media.istockphoto.com/id/1630774197/photo/indian-college-students-on-campus-interacting-with-faculty.webp?w=600&auto=format&fit=crop&q=60"
-                    alt="Campus management"
+                    src="https://media.istockphoto.com/id/1004613022/photo/hand-arranging-wood-block-stacking-with-elements-education-icon-diagram-of-knowledge.webp?a=1&b=1&s=612x612&w=0&k=20&c=QDPwzoLqehufgf9C5LzIio3zNhLStHUT1lNYOcWpz28="
                     className="w-full h-full object-cover"
                   />
                   <div className="absolute left-3 top-3 h-8 w-8 rounded-2xl bg-white/90 dark:bg-slate-900/90 shadow flex items-center justify-center text-sm">
